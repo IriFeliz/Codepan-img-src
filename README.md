@@ -1,2 +1,2 @@
-# Codepan-img-src
+# Codepen-img-src
 Images for codepen.io
